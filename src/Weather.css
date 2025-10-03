@@ -1,0 +1,57 @@
+
+.Weather {
+
+  font-family: 'Arial', sans-serif;
+  margin: 30px auto;
+  max-width: 800px;;
+  border: 1px solid #dadde1;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #422E63;
+  opacity: 0.8;
+  color: #d4d4d4;
+}
+
+.Weather h1{
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+  margin:0 0 0;
+  display: block;
+  font-size: 28px;
+  font-weight: bold;
+  line-height: 28.8px;
+}
+.Weather form {
+  margin-bottom: 20px;
+
+}
+.Weather .search-btn{
+  background-color: #6A4C93;
+  color: white;
+  border: none;
+  padding: 10px 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 0 auto;
+}
+.Weather ul{
+  padding: 0;
+  margin: 0;
+}
+.Weather li{
+  list-style-type: none;
+  font-size: 18px;
+}
+.Weather .temperature{
+  font-size: 48px;
+  font-weight: bold;
+  margin: 10px 0;
+  margin-left: 5px;
+  display: inline;
+}
+.Weather .unit{
+  font-size: 20px;
+  position: relative;
+  top: -18px;
+  margin-left: 5px;
+}
