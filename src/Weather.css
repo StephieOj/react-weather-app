@@ -61,3 +61,17 @@
   top: -18px;
   margin-left: 5px;
 }
+.Weather a{
+  color: white;
+  text-decoration: none;
+   opacity: 0.3;
+}
+
+.Weather a:visited {
+  color: white;
+  text-decoration: none;
+}
+.Weather a:active {
+  color: white;
+  text-decoration: none;
+}
