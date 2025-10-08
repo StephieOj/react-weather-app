@@ -25,6 +25,6 @@
 ## Build Daily Forecast
 1. Create a new Component e.g. WeatherForecast
 1. HTML layout- no need to replicate as we'll use loops for this
-2. Forecast API
+2. Forecast API- SheCodes Weather API
 3. 1 Day Forecast
 4. 5 Day Forecast
